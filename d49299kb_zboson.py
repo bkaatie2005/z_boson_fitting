@@ -3,7 +3,6 @@
 -------------- TITLE --------------
 PHYS20161 - Assignment 2 - Z0 Boson.
 -----------------------------------
-             d49299kb
 
 This script will read in csv data files and use them to find the width, mass
 and lifetime of a Z0 boson. This is accomplished by:
